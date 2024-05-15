@@ -1,4 +1,3 @@
-# A-Class-Incremental-Learning-Approach-for-Learning-Feature-Compatible-Embeddings
 # Feature-Compatible Embeddings
 This is the official PyTorch code for the paper:
 
